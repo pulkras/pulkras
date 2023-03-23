@@ -1,9 +1,26 @@
-Header
+<h1 align="center">Hi there, I'm Mikhail</h1>
+<h2 align="center">-- I'm a Java developer --</h2>
+<h2 align="center">-- I like Spring Framework and Java as well --</h2>
+<h2 align="center">-- I have a 3d printing business --</h2>
 
-About me
+### My Stats :
 
-Follow my community
+[![GitHub Streak](https://streak-stats.demolab.com?user=pulkras&theme=neon&hide_border=true)](https://git.io/streak-stats)
 
-Languages and tools
+## Languages and tools I use
 
-follow me
+![Java](https://img.shields.io/badge/-Java-red)
+![Spring](https://img.shields.io/badge/-Spring-brightgreen?style-for-the-badge&logo=spring&logoColor=yellow)
+![rxJava](https://img.shields.io/badge/-rxJava-blueviolet)
+![javaFx](https://img.shields.io/badge/-javaFx-9cf)
+![Python](https://img.shields.io/badge/-python-yellow?style-for-the-badge&logo=python&logoColor=darkblue)
+![SQL](https://img.shields.io/badge/-SQL-black?style-for-the-badge&logo=postgresql&logoColor=yellow)
+![Linux](https://img.shields.io/badge/-Linux-white?style-for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/-Docker-ff96b4?style-for-the-badge&logo=docker&logoColor=informational)
+### Follow me and my communities<br/>
+[![My VK](https://img.shields.io/badge/-My_VK-black?style-for-the-badge&logo=vk&logoColor=informational)](https://vk.com/pulkras)
+[![My Telegram](https://img.shields.io/badge/-MY_Telegram-white?style-for-the-badge&logo=telegram&logoColor=informational)](https://t.me/pulkras)
+[![Community VK](https://img.shields.io/badge/-Community_VK-brightgreen?style-for-the-badge&logo=vk&logoColor=informational)](https://vk.com/pulkras_house)
+[![Community Telegram](https://img.shields.io/badge/-Community_Telegram-violet?style-for-the-badge&logo=telegram&logoColor=informational)](https://t.me/pulkras_house)
+[![Community Instagram](https://img.shields.io/badge/-Comunnity_Instagram-red?style-for-the-badge&logo=instagram&logoColor=brown)](https://www.instagram.com/pulkras_store)
+
