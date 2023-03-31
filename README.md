@@ -6,6 +6,7 @@
 ### My Stats :
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=pulkras&theme=neon&hide_border=true)](https://git.io/streak-stats)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=pulkras&show_icons=true&theme=onedark&hide_border=true&count_private=true)
 
 ## Languages and tools I use
 
@@ -17,7 +18,31 @@
 ![SQL](https://img.shields.io/badge/-SQL-black?style-for-the-badge&logo=postgresql&logoColor=yellow)
 ![Linux](https://img.shields.io/badge/-Linux-white?style-for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/-Docker-ff96b4?style-for-the-badge&logo=docker&logoColor=informational)
+
+
+<!--START_SECTION:waka-->
+name: Waka Readme
+
+on:
+  schedule:
+    # Runs at 12am IST
+    - cron: '30 18 * * *'
+  workflow_dispatch:
+jobs:
+  update-readme:
+    name: Update Readme with Metrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_OS: "True"
+          SHOW_PROJECTS: "True"
+<!--END_SECTION:waka-->
+
 ### Follow me and my communities<br/>
+
 [![My VK](https://img.shields.io/badge/-My_VK-black?style-for-the-badge&logo=vk&logoColor=informational)](https://vk.com/pulkras)
 [![My Telegram](https://img.shields.io/badge/-MY_Telegram-white?style-for-the-badge&logo=telegram&logoColor=informational)](https://t.me/pulkras)
 [![Community VK](https://img.shields.io/badge/-Community_VK-brightgreen?style-for-the-badge&logo=vk&logoColor=informational)](https://vk.com/pulkras_house)
