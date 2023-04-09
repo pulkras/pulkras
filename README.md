@@ -8,6 +8,8 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=pulkras&theme=neon&hide_border=true)](https://git.io/streak-stats)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=pulkras&show_icons=true&theme=onedark&hide_border=true&count_private=true)
 
+[![pulkras wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pulkras&theme=radical)](https://wakatime.com/@pulkras)
+
 ## Languages and tools I use
 
 ![Java](https://img.shields.io/badge/-Java-red)
@@ -22,6 +24,7 @@
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
 
 ### Follow me and my communities<br/>
 
