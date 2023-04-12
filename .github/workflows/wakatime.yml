@@ -1,0 +1,17 @@
+name: Wakatime Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # run every day at midnight
+
+jobs:
+  update-readme-with-wakatime:
+    name: Update this repo's README with Wakatime stats
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          USERNAME: YourUsername
+          TEMPLATE: default
